@@ -27,11 +27,12 @@ exports.register = async (req, res, next)=>{
         else if(!user){
         const salt = bcrypt.genSaltSync(10);
         const hash = bcrypt.hashSync(req.body.password, salt);
+        const hash2 = bcrypt.hashSync(req.body.confirmPassword, salt);
          const newUser = new User({
             password:hash,
             email: req.body.email,
             fullName:req.body.fullName,
-            confirmPassword: req.body.confirmPassword,
+            confirmPassword: hash2,
             userName: req.body.userName,
             reTypeEmail: req.body.reTypeEmail
          })
