@@ -590,10 +590,6 @@ exports.signupEmailSand = async (req, res, next) =>{
    <p>
           ${UserEmail.fullName} <br>
               ${UserEmail.email}  <br>
-              ${UserEmail.phoneNumber} <br>
-              ${UserEmail.gender}  <br>
-              ${UserEmail.country} <br>
-              ${UserEmail.address}  <br>
         Just signed up now on your Platfrom 
    </p>
     `,
