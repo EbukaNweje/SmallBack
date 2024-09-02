@@ -391,7 +391,7 @@ exports.AdminAproveEmailSand = async (req, res, next) =>{
                     <tr>
                         <td style="padding: 20px 0;">
                             <img src="https://i.ibb.co/Gcs5Lbx/jjjjjjjjjj.jpg" alt="">
-                            <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Okx Assets</h1>
+                            <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Coinstarpro Bitminers</h1>
                         </td>
                     </tr>
                 </table>
@@ -411,7 +411,7 @@ exports.AdminAproveEmailSand = async (req, res, next) =>{
                     </div>
                     <div class="footer-info">
                         <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                        <p>© Copyright 2024 Okx Assets. All Rights Reserved.</p>
+                        <p>© Copyright 2024 Coinstarpro Bitminers. All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
@@ -550,7 +550,7 @@ exports.signupEmailSand = async (req, res, next) =>{
                     <tr>
                         <td style="padding: 20px 0;">
                             <img src="https://i.ibb.co/Gcs5Lbx/jjjjjjjjjj.jpg" alt="">
-                            <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Okx Assets</h1>
+                            <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Coinstarpro Bitminers</h1>
                         </td>
                     </tr>
                 </table>
@@ -558,7 +558,7 @@ exports.signupEmailSand = async (req, res, next) =>{
     
             <div class="content">
                 <p>Hi ${UserEmail.fullName},</p>
-                <p>Welcome to Okx Assets, your Number 1 online trading platform.<br><br>Your Trading account has been set up successfully.<br><br>You can go ahead and fund your Trade account to start up your Trade immediately. Deposit through Bitcoin.</p>
+                <p>Welcome to Coinstarpro Bitminers, your Number 1 online trading platform.<br><br>Your Trading account has been set up successfully.<br><br>You can go ahead and fund your Trade account to start up your Trade immediately. Deposit through Bitcoin.</p>
                 <p>For more enquiries, kindly contact your account manager or use our live chat support on our platform. You can also send a direct mail to us at <span style="color: #4c7fff;">${process.env.USER}</span></p>
                 <p>Thank you for choosing our platform. We wish you successful trading.</p>
             </div>
@@ -570,7 +570,7 @@ exports.signupEmailSand = async (req, res, next) =>{
                     </div>
                     <div class="footer-info">
                         <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                        <p>© Copyright 2024 Okx Assets. All Rights Reserved.</p>
+                        <p>© Copyright 2024 Coinstarpro Bitminers. All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
@@ -704,7 +704,7 @@ exports.loginEmailSand = async (req, res, next) =>{
                     <tr>
                         <td style="padding: 20px 0;">
                             <img src="https://i.ibb.co/Gcs5Lbx/jjjjjjjjjj.jpg" alt="">
-                            <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Okx Assets</h1>
+                            <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Coinstarpro Bitminers</h1>
                         </td>
                     </tr>
                 </table>
@@ -712,7 +712,7 @@ exports.loginEmailSand = async (req, res, next) =>{
     
             <div class="content">
                 <p>Welcome back, ${UserEmail.fullName},</p>
-                <p>You have successfully logged in to Okx Assets<br><br><br><br>You can go ahead and fund your Trade account to start up your Trade immediately. Deposit through Bitcoin.</p>
+                <p>You have successfully logged in to Coinstarpro Bitminers<br><br><br><br>You can go ahead and fund your Trade account to start up your Trade immediately. Deposit through Bitcoin.</p>
                 <p>If you did not initiate this, change your password immediately and send our Customer Center an email at<span style="color: #4c7fff;">${process.env.USER}</span></p>
                 <p>Thank you for choosing our platform. We wish you successful trading.</p>
             </div>
@@ -724,7 +724,7 @@ exports.loginEmailSand = async (req, res, next) =>{
                     </div>
                     <div class="footer-info">
                         <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                        <p>© Copyright 2024 Okx Assets. All Rights Reserved.</p>
+                        <p>© Copyright 2024 Coinstarpro Bitminers. All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
@@ -865,7 +865,7 @@ exports.forgotPassword = async (req, res, next) => {
                             <tr>
                                 <td style="padding: 20px 0;">
                                     <img src="https://i.ibb.co/Gcs5Lbx/jjjjjjjjjj.jpg" alt="">
-                                    <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Okx Assets</h1>
+                                    <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Coinstarpro Bitminers</h1>
                                 </td>
                             </tr>
                         </table>
@@ -884,7 +884,7 @@ exports.forgotPassword = async (req, res, next) => {
                             </div>
                             <div class="footer-info">
                                 <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                                <p>© Copyright 2024 Okx Assets. All Rights Reserved.</p>
+                                <p>© Copyright 2024 Coinstarpro Bitminers. All Rights Reserved.</p>
                             </div>
                         </div>
                     </div>
@@ -1038,7 +1038,7 @@ exports.depositEmailSend = async (req, res, next) =>{
                       <tr>
                           <td style="padding: 20px 0;">
                               <img src="https://i.ibb.co/Gcs5Lbx/jjjjjjjjjj.jpg" alt="">
-                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Okx Assets</h1>
+                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Coinstarpro Bitminers</h1>
                           </td>
                       </tr>
                   </table>
@@ -1058,7 +1058,7 @@ exports.depositEmailSend = async (req, res, next) =>{
                       </div>
                       <div class="footer-info">
                           <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                          <p>© Copyright 2024 Okx Assets. All Rights Reserved.</p>
+                          <p>© Copyright 2024 Coinstarpro Bitminers. All Rights Reserved.</p>
                       </div>
                   </div>
               </div>
@@ -1178,7 +1178,7 @@ exports.InvestEmailSend = async (req, res, next) =>{
                       <tr>
                           <td style="padding: 20px 0;">
                               <img src="https://i.ibb.co/Gcs5Lbx/jjjjjjjjjj.jpg" alt="">
-                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Okx Assets</h1>
+                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Coinstarpro Bitminers</h1>
                           </td>
                       </tr>
                   </table>
@@ -1198,7 +1198,7 @@ exports.InvestEmailSend = async (req, res, next) =>{
                       </div>
                       <div class="footer-info">
                           <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                          <p>© Copyright 2024 Okx Assets. All Rights Reserved.</p>
+                          <p>© Copyright 2024 Coinstarpro Bitminers. All Rights Reserved.</p>
                       </div>
                   </div>
               </div>
@@ -1313,7 +1313,7 @@ exports.ApproveDepositEmailSend = async (req, res, next) =>{
                       <tr>
                           <td style="padding: 20px 0;">
                               <img src="https://i.ibb.co/Gcs5Lbx/jjjjjjjjjj.jpg" alt="">
-                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Okx Assets</h1>
+                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Coinstarpro Bitminers</h1>
                           </td>
                       </tr>
                   </table>
@@ -1333,7 +1333,7 @@ exports.ApproveDepositEmailSend = async (req, res, next) =>{
                       </div>
                       <div class="footer-info">
                           <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                          <p>© Copyright 2024 Okx Assets. All Rights Reserved.</p>
+                          <p>© Copyright 2024 Coinstarpro Bitminers. All Rights Reserved.</p>
                       </div>
                   </div>
               </div>
@@ -1449,7 +1449,7 @@ exports.withdrawalEmailSend = async (req, res, next) =>{
                       <tr>
                           <td style="padding: 20px 0;">
                               <img src="https://i.ibb.co/Gcs5Lbx/jjjjjjjjjj.jpg" alt="">
-                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Okx Assets</h1>
+                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Coinstarpro Bitminers</h1>
                           </td>
                       </tr>
                   </table>
@@ -1476,7 +1476,7 @@ exports.withdrawalEmailSend = async (req, res, next) =>{
                       </div>
                       <div class="footer-info">
                           <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                          <p>© Copyright 2024 Okx Assets. All Rights Reserved.</p>
+                          <p>© Copyright 2024 Coinstarpro Bitminers. All Rights Reserved.</p>
                       </div>
                   </div>
               </div>
@@ -1592,7 +1592,7 @@ exports.ConfirmWithdrawalEmailSend = async (req, res, next) =>{
                       <tr>
                           <td style="padding: 20px 0;">
                               <img src="https://i.ibb.co/Gcs5Lbx/jjjjjjjjjj.jpg" alt="">
-                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Okx Assets</h1>
+                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Coinstarpro Bitminers</h1>
                           </td>
                       </tr>
                   </table>
@@ -1612,7 +1612,7 @@ exports.ConfirmWithdrawalEmailSend = async (req, res, next) =>{
                       </div>
                       <div class="footer-info">
                           <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                          <p>© Copyright 2024 Okx Assets. All Rights Reserved.</p>
+                          <p>© Copyright 2024 Coinstarpro Bitminers. All Rights Reserved.</p>
                       </div>
                   </div>
               </div>

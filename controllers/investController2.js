@@ -670,7 +670,7 @@ async function sendExpirationEmail(user, investment, plan) {
                       <tr>
                           <td style="padding: 20px 0;">
                               <img src="https://i.ibb.co/Gcs5Lbx/jjjjjjjjjj.jpg" alt="">
-                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Okx Assets</h1>
+                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Coinstarpro Bitminers</h1>
                           </td>
                       </tr>
                   </table>
@@ -699,7 +699,7 @@ async function sendExpirationEmail(user, investment, plan) {
                       </div>
                       <div class="footer-info">
                           <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                          <p>© Copyright 2024 Okx Assets. All Rights Reserved.</p>
+                          <p>© Copyright 2024 Coinstarpro Bitminers. All Rights Reserved.</p>
                       </div>
                   </div>
               </div>

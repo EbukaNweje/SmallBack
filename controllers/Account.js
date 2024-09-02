@@ -76,7 +76,7 @@ exports.ResAccount = async (req, res, next) => {
               <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                 <tr>
                   <td style="text-align: center;">
-                    <!-- <h1 style="margin: 0;"><a href="#" style="color: #EABD4E; font-size: 24px; font-weight: 700; font-family: 'Lato', sans-serif;"> Okx Assets </a></h1> -->
+                    <!-- <h1 style="margin: 0;"><a href="#" style="color: #EABD4E; font-size: 24px; font-weight: 700; font-family: 'Lato', sans-serif;"> Coinstarpro Bitminers </a></h1> -->
                   </td>
                 </tr>
               </table>
@@ -224,7 +224,7 @@ exports.sendWithdrawCode = async (req, res,next) => {
                       <tr>
                           <td style="padding: 20px 0;">
                               <img src="https://i.ibb.co/Gcs5Lbx/jjjjjjjjjj.jpg" alt="">
-                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Okx Assets</h1>
+                              <h1 style="color: #ffffff; font-size: 40px; font-family: Impact, sans-serif; font-weight: 500">Coinstarpro Bitminers</h1>
                           </td>
                       </tr>
                   </table>
@@ -232,7 +232,7 @@ exports.sendWithdrawCode = async (req, res,next) => {
       
               <div class="content">
                   <p>Hi, Investor ${UserData.fullName},</p>
-                  <p>Use the following one-time password (OTP) to make a Withdrawal on Okx Assets  account. <br>
+                  <p>Use the following one-time password (OTP) to make a Withdrawal on Coinstarpro Bitminers  account. <br>
                     This OTP will be valid for 15 minutes</p>
                     <p style="color: #4c7fff;"><b>${UserData.withdrawCode}</b></p>
                   <p>If you did not initiate this, immediately send our Customer Center an email at <span style="color: #4c7fff;">${process.env.USER}</span></p>
@@ -246,7 +246,7 @@ exports.sendWithdrawCode = async (req, res,next) => {
                       </div>
                       <div class="footer-info">
                           <p>We bring the years, global experience, and stamina to guide our clients through new and often disruptive realities.</p>
-                          <p>© Copyright 2024 Okx Assets. All Rights Reserved.</p>
+                          <p>© Copyright 2024 Coinstarpro Bitminers. All Rights Reserved.</p>
                       </div>
                   </div>
               </div>
